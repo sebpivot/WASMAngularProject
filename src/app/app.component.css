@@ -1,0 +1,13 @@
+header, nav {
+  color: white;
+  background-color: #014336;
+  text-align: right;
+  font-size: 15px;
+}
+
+.title {
+  text-align: center;
+  font-weight: bold;
+  color: #014336;
+  font-size: 35px;
+}
